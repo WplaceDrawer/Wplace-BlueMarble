@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><a href="#blue-marble">Blue Marble</a></td>
-    <td valign="top" rowspan="99"><a href="https://discord.gg/ypw4UwmpdS"><img alt="Discord Banner" src="https://discord.com/api/guilds/1405148636811100221/widget.png?style=banner4"></a></td>
+    <td valign="top" rowspan="99"><a href="https://discord.gg/ypw4UwmpdS"><img alt="Discord Banner" src="https://discord.com/api/guilds/1397186741177159721/widget.png?style=banner4"></a></td>
   </tr>
 </table>
 <h2>How to use</h2>
